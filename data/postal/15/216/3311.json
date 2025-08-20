@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "40300",
+    "village": "ASMOROBANGUN",
+    "postal_code": "64292"
+  },
+  {
+    "village_code": "41776",
+    "village": "GADUNGAN",
+    "postal_code": "64292"
+  },
+  {
+    "village_code": "44302",
+    "village": "MANGGIS",
+    "postal_code": "64292"
+  },
+  {
+    "village_code": "45995",
+    "village": "PUNCU",
+    "postal_code": "64292"
+  },
+  {
+    "village_code": "46397",
+    "village": "SATAK",
+    "postal_code": "64292"
+  },
+  {
+    "village_code": "46795",
+    "village": "SIDOMULYO",
+    "postal_code": "64292"
+  },
+  {
+    "village_code": "48460",
+    "village": "WATUGEDE",
+    "postal_code": "64292"
+  },
+  {
+    "village_code": "48615",
+    "village": "WONOREJO",
+    "postal_code": "64292"
+  }
+]

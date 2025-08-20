@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "66667",
+    "village": "BUNGA EJA",
+    "postal_code": "91994"
+  },
+  {
+    "village_code": "66769",
+    "village": "CILALLANG",
+    "postal_code": "91994"
+  },
+  {
+    "village_code": "67002",
+    "village": "KAMANRE",
+    "postal_code": "91994"
+  },
+  {
+    "village_code": "67355",
+    "village": "LIBUKANG",
+    "postal_code": "91994"
+  },
+  {
+    "village_code": "68323",
+    "village": "SALU PAREMANG",
+    "postal_code": "91994"
+  },
+  {
+    "village_code": "68338",
+    "village": "SALUPAREMANG SELATAN",
+    "postal_code": "91994"
+  },
+  {
+    "village_code": "68546",
+    "village": "TABBAJA",
+    "postal_code": "91994"
+  },
+  {
+    "village_code": "68980",
+    "village": "WARA",
+    "postal_code": "91994"
+  }
+]

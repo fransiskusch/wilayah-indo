@@ -1,0 +1,57 @@
+[
+  {
+    "village_code": "52403",
+    "village": "CAREP",
+    "postal_code": "86519"
+  },
+  {
+    "village_code": "52641",
+    "village": "GOLO DUKAL",
+    "postal_code": "86515"
+  },
+  {
+    "village_code": "52936",
+    "village": "KAROT",
+    "postal_code": "86512"
+  },
+  {
+    "village_code": "53240",
+    "village": "LAWIR",
+    "postal_code": "86516"
+  },
+  {
+    "village_code": "53595",
+    "village": "MBAU MUKU",
+    "postal_code": "86511"
+  },
+  {
+    "village_code": "54190",
+    "village": "PAU",
+    "postal_code": "86516"
+  },
+  {
+    "village_code": "54229",
+    "village": "PITAK",
+    "postal_code": "86513"
+  },
+  {
+    "village_code": "54718",
+    "village": "TENDA",
+    "postal_code": "86518"
+  },
+  {
+    "village_code": "55015",
+    "village": "WALI",
+    "postal_code": "86514"
+  },
+  {
+    "village_code": "55033",
+    "village": "WASO",
+    "postal_code": "86517"
+  },
+  {
+    "village_code": "55063",
+    "village": "WATU",
+    "postal_code": "86511"
+  }
+]

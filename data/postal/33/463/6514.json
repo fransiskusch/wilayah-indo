@@ -1,0 +1,97 @@
+[
+  {
+    "village_code": "75033",
+    "village": "APALO",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "75369",
+    "village": "BINIME",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "75623",
+    "village": "DIBUNGGEN",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "75667",
+    "village": "DOGOBAK",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "75912",
+    "village": "GELORA",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "76458",
+    "village": "KAMBO",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "76583",
+    "village": "KELILA",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "76668",
+    "village": "KINDOK (LOBI)",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "76863",
+    "village": "KUMBU",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "77077",
+    "village": "MABUNA (MABUMA)",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "77755",
+    "village": "ONGGOBALO (GWIPU)",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "77873",
+    "village": "PELANME (PELAME)",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "78583",
+    "village": "TARI",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "78658",
+    "village": "TIKAPURA",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "78665",
+    "village": "TIMERIA",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "78746",
+    "village": "TONGRIK (TENGGRIK / TOGIRIK / YINAGA)",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "78812",
+    "village": "UGANDA",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "79384",
+    "village": "YAGABUR",
+    "postal_code": "99553"
+  },
+  {
+    "village_code": "79414",
+    "village": "YALENGGOLO (YELONGGOLO)",
+    "postal_code": "99553"
+  }
+]

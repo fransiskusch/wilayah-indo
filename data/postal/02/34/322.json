@@ -1,0 +1,432 @@
+[
+  {
+    "village_code": "6496",
+    "village": "AEK HARUAYA",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "6501",
+    "village": "AEK ILUNG",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "6563",
+    "village": "AEK RAO TAPIAN NADENGGAN",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "6577",
+    "village": "AEK SUHAT JAE",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "6579",
+    "village": "AEK SUHUT TR",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "6580",
+    "village": "AEK SUNDUR",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "6583",
+    "village": "AEK TANGGA",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "6679",
+    "village": "ARSE",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "6745",
+    "village": "BAHAP",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "6825",
+    "village": "BANDAR NAULI",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "6934",
+    "village": "BARINGIN SIL",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "6935",
+    "village": "BARINGIN SIP",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "7030",
+    "village": "BATU RUNDING",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "7133",
+    "village": "BINANGA GUMBOT",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "7151",
+    "village": "BINTAIS JULU",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "7250",
+    "village": "BUKIT TINGGI",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "7289",
+    "village": "BUNUT",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "7340",
+    "village": "DALIHAN NATOLU",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "7420",
+    "village": "DOLOK SANGGUL",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "7592",
+    "village": "GUMARUNTAR",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "7594",
+    "village": "GUMBOT",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "7643",
+    "village": "GUNUNG MARIA",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "7660",
+    "village": "GUNUNG SALAMAT",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "8044",
+    "village": "HUTA BARU SIL",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "8045",
+    "village": "HUTA BARU SIP",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "8079",
+    "village": "HUTA IMBARU GIL",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "8227",
+    "village": "JAMBUR BATU",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "8240",
+    "village": "JANJI MANAHAN GUL",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "8241",
+    "village": "JANJI MANAHAN SIL",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "8252",
+    "village": "JANJI MATOGU",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "8468",
+    "village": "KUALA BARINGIN",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "8828",
+    "village": "LUBUK GODANG",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "8836",
+    "village": "LUBUK KUNDUR",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "8837",
+    "village": "LUBUK LANJANG",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9149",
+    "village": "MOMPANG DOLOK",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9153",
+    "village": "MOMPANG LOMBANG",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9214",
+    "village": "NABONGGAL",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9227",
+    "village": "NAGA SARIBU",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9300",
+    "village": "NAPA SUNDALI",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9516",
+    "village": "PAGARAN JULU I",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9517",
+    "village": "PAGARAN JULU II",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9529",
+    "village": "PAGARAN SIREGAR",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9585",
+    "village": "PANCA",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9586",
+    "village": "PANCARAN (RANCARAN)",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9787",
+    "village": "PARIGI",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9807",
+    "village": "PARMERAAN / PARMERAN",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9913",
+    "village": "PASAR SIPIONGOT",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "9973",
+    "village": "PAYA OMBIK",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "10228",
+    "village": "PIJOR KOLING",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "10249",
+    "village": "PINTU PADANG MERDEKA",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "10352",
+    "village": "PURBATUA (PURBABA TUA)",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "10460",
+    "village": "RONGKARE",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "10818",
+    "village": "SIALAN GUNDI",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "10820",
+    "village": "SIALANG DOLOK",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "10873",
+    "village": "SIBANGA PANAHASAHAN (BINANGA PANOSAHAN)",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "10888",
+    "village": "SIBAYO",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "10887",
+    "village": "SIBAYO JAE",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "10895",
+    "village": "SIBIO-BIO",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "10947",
+    "village": "SIBUR BUR",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11027",
+    "village": "SIGALA GALA",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11039",
+    "village": "SIGAMBAL (SIMAMBAL)",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11043",
+    "village": "SIGANYAL (SINGANYAL)",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11068",
+    "village": "SIGUGAH",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11130",
+    "village": "SIJANTUNG JAE",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11131",
+    "village": "SIJANTUNG JULU",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11132",
+    "village": "SIJARA-JARA",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11136",
+    "village": "SIJORANG",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11167",
+    "village": "SILANGGE",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11207",
+    "village": "SILOGO-LOGO",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11213",
+    "village": "SILOUNG",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11249",
+    "village": "SIMANGAMBAT TUA",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11261",
+    "village": "SIMANINGGIR SIP",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11275",
+    "village": "SIMANOSOR",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11303",
+    "village": "SIMATANIARI",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11301",
+    "village": "SIMATANIARI JAE",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11311",
+    "village": "SIMATORKIS",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11363",
+    "village": "SINABONGAN",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11468",
+    "village": "SIPIONGOT",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11488",
+    "village": "SIRAGA HUTA PADANG",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11496",
+    "village": "SIRANAP",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11617",
+    "village": "SITUMBAGA",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11812",
+    "village": "SUNGAI DATAR",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11816",
+    "village": "SUNGAI PINING",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11927",
+    "village": "TANJUNG BARU B",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "11965",
+    "village": "TANJUNG LONGAT",
+    "postal_code": "22756"
+  },
+  {
+    "village_code": "12082",
+    "village": "TARUTUNG BOLAK",
+    "postal_code": "22756"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "25255",
+    "village": "ANDIR",
+    "postal_code": "40375"
+  },
+  {
+    "village_code": "25363",
+    "village": "BALEENDAH",
+    "postal_code": "40375"
+  },
+  {
+    "village_code": "25639",
+    "village": "BOJONGMALAKA",
+    "postal_code": "40375"
+  },
+  {
+    "village_code": "27518",
+    "village": "JELEKONG",
+    "postal_code": "40375"
+  },
+  {
+    "village_code": "28387",
+    "village": "MALAKASARI",
+    "postal_code": "40258"
+  },
+  {
+    "village_code": "28438",
+    "village": "MANGGAHANG",
+    "postal_code": "40375"
+  },
+  {
+    "village_code": "29591",
+    "village": "RANCAMANYAR",
+    "postal_code": "40375"
+  },
+  {
+    "village_code": "31111",
+    "village": "WARGAMEKAR",
+    "postal_code": "40375"
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "village_code": "6",
+    "village": "ABEUK LEUPON (LEUPEN)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "41",
+    "village": "ALUE ABEE",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "77",
+    "village": "ALUE BUKET",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "109",
+    "village": "ALUE EUMPOK",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "139",
+    "village": "ALUE ITAM BAROH",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "140",
+    "village": "ALUE ITAM REUDEUP",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "185",
+    "village": "ALUE MEUDEM (MUDEM)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "316",
+    "village": "ARA AB (MEUNASAH ARA)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "339",
+    "village": "ARONGAN LT",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "415",
+    "village": "BABAH GEUDUBANG",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "678",
+    "village": "BEURINGIN LB (MEUNASAH BEURINGEN)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "718",
+    "village": "BINTANG HU",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "969",
+    "village": "BLANG RUBEK",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1050",
+    "village": "BUKET HAGU",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1057",
+    "village": "BUKET KRUENG",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1062",
+    "village": "BUKET MEE LT",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1089",
+    "village": "BUKET SENTANG",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1216",
+    "village": "CEUBREK (MEUNASAH CEUBREK)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1256",
+    "village": "COT ASAN",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1286",
+    "village": "COT GEULUMPANG AB",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1559",
+    "village": "DAYAH LB / LT",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1706",
+    "village": "GAMPONG BLANG AMAN",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1720",
+    "village": "GAMPONG COT ARA",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1754",
+    "village": "GAMPONG MATANG PUPANJI AB",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1761",
+    "village": "GAMPONG MEUNASAH RANTO",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1764",
+    "village": "GAMPONG NGA LT",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1892",
+    "village": "GEULUMPANG",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1897",
+    "village": "GEUMATA (MEUNASAH GEUMATA)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "1944",
+    "village": "GRONG GRONG",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "2516",
+    "village": "KEUTAPANG",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "2562",
+    "village": "KOTA LHOKSUKON",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "2612",
+    "village": "KRUENG LT",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "2710",
+    "village": "KUMBANG LT",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3348",
+    "village": "LHOK KAREUNG",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3392",
+    "village": "LHOK SENTANG",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3535",
+    "village": "MANCANG (MEUNASAH MANCANG)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3557",
+    "village": "MANYANG (MEUNASAH MANYANG)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3573",
+    "village": "MATA IE",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3579",
+    "village": "MATA U",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3635",
+    "village": "MATANG MEUNYE",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3680",
+    "village": "MATANG TEUNGOH AB. (MEUNASAH MATANG TEUNGOH)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3819",
+    "village": "MEUCAT",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3844",
+    "village": "MEUNASAH ALUE DRIEN LB",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3852",
+    "village": "MEUNASAH ARONGAN AB",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3853",
+    "village": "MEUNASAH ASAN AB",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3854",
+    "village": "MEUNASAH ASAN LHOKSUKON BARAT",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3885",
+    "village": "MEUNASAH BLANG",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3895",
+    "village": "MEUNASAH BULOH",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3897",
+    "village": "MEUNASAH COT USIBAK",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3901",
+    "village": "MEUNASAH DAYAH LT / LB",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3916",
+    "village": "MEUNASAH GEULINGGANG",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3924",
+    "village": "MEUNASAH JOK",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3953",
+    "village": "MEUNASAH LEUBOK AB",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3986",
+    "village": "MEUNASAH MEURBO (MEUREUBO)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3987",
+    "village": "MEUNASAH MEURIA (MEURIYA)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "3991",
+    "village": "MEUNASAH NGA LHOKSUKON BARAT",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "4012",
+    "village": "MEUNASAH RAYEUK LB",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "4023",
+    "village": "MEUNASAH TEUNGOH LB",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "4024",
+    "village": "MEUNASAH TEUNGOH LT",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "4036",
+    "village": "MEUNASAH TUHA",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "4044",
+    "village": "MEUNASAH TUTONG",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "4085",
+    "village": "MEUYE / MUNYE MATANG UBI",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "4204",
+    "village": "NGA LHOKSUKON TENGAH",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "4205",
+    "village": "NGA MATANG UBI",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "4422",
+    "village": "PANTE",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "4904",
+    "village": "PULO DULANG (MEUNASAH PULO DOLANG)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "5077",
+    "village": "RAMBOT",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "5115",
+    "village": "RAWA (MEUNASAH RAWA)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "5456",
+    "village": "SEUNEUBOK DALAM",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "6058",
+    "village": "TEUPIN KEUBEU",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "6125",
+    "village": "TRIENG MATANG UBI",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "6129",
+    "village": "TRIENG PANTANG",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "6144",
+    "village": "TUALANG TUHA",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "6315",
+    "village": "ULEE BARAT (MEUNASAH ULEE BARAT)",
+    "postal_code": "24382"
+  },
+  {
+    "village_code": "6339",
+    "village": "ULEE GUNONG",
+    "postal_code": "24382"
+  }
+]

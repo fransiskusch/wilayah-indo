@@ -1,0 +1,532 @@
+[
+  {
+    "village_code": "74816",
+    "village": "ABAGIMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "74823",
+    "village": "ABENAHO",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "74921",
+    "village": "ALUGI",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "74970",
+    "village": "AMUKI",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75059",
+    "village": "ARIKBALEK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75282",
+    "village": "BEIM",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75324",
+    "village": "BEYAM",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75430",
+    "village": "BONAHIK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75435",
+    "village": "BONGGI",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75485",
+    "village": "BUKURIK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75489",
+    "village": "BUMBUM",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75510",
+    "village": "BURIM",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75544",
+    "village": "DAHONAIKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75620",
+    "village": "DETPAGADO",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75684",
+    "village": "DOMBOMI",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75697",
+    "village": "DOSUMO",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75771",
+    "village": "ELESIM",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75772",
+    "village": "ELIEKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75841",
+    "village": "FABULIK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75861",
+    "village": "FIALEM",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "75877",
+    "village": "FUAHE",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76058",
+    "village": "HALISEK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76076",
+    "village": "HEAHOBAK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76084",
+    "village": "HELAKSILI",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76152",
+    "village": "HOMBANMAN",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76169",
+    "village": "HORAKIA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76170",
+    "village": "HORENIKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76175",
+    "village": "HUBLIKI",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76192",
+    "village": "HULHULE",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76193",
+    "village": "HULIKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76198",
+    "village": "HUMALMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76200",
+    "village": "HUNDILIP",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76203",
+    "village": "HURUALMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76313",
+    "village": "IWIM",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76361",
+    "village": "JINGGIWI",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76480",
+    "village": "KANDIBUNG",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76555",
+    "village": "KAWOKHOLIK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76618",
+    "village": "KESUWI",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76624",
+    "village": "KEWI",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76697",
+    "village": "KLESU",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76724",
+    "village": "KOLAIMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76941",
+    "village": "LANDIKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76946",
+    "village": "LANGONGKOK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76960",
+    "village": "LASIKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76992",
+    "village": "LILINMUHUK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "76994",
+    "village": "LILUKIKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77019",
+    "village": "LOHOMABEL",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77084",
+    "village": "MAHIAL",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77112",
+    "village": "MALEO",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77347",
+    "village": "MOBAN",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77428",
+    "village": "MULIP",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77460",
+    "village": "MUSANAHIKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77552",
+    "village": "NENOMANI",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77565",
+    "village": "NILBO",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77595",
+    "village": "NOFUALMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77599",
+    "village": "NOHOLUOK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77650",
+    "village": "OBABIN",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77649",
+    "village": "OBABIN SATU",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77826",
+    "village": "PAMUMU",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "77945",
+    "village": "PIRIKALEM",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78102",
+    "village": "SABILIRONGGO",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78121",
+    "village": "SAHIKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78135",
+    "village": "SALO",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78136",
+    "village": "SALOHE",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78180",
+    "village": "SAPIWAREK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78228",
+    "village": "SEBI",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78264",
+    "village": "SENGIKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78397",
+    "village": "SOHI",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78402",
+    "village": "SOHOMBUNU",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78415",
+    "village": "SOMBULE",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78448",
+    "village": "SUAHE",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78459",
+    "village": "SUELE",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78478",
+    "village": "SUMBULE SATU",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78480",
+    "village": "SUMINAIKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78530",
+    "village": "TAGABAGA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78834",
+    "village": "ULUHUFUK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78836",
+    "village": "ULUN",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78838",
+    "village": "ULUSI",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78879",
+    "village": "USABIYE",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78892",
+    "village": "UWAMBO SATU",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78913",
+    "village": "WABUHUK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78935",
+    "village": "WAGHASILIMO",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78964",
+    "village": "WALAGIMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78993",
+    "village": "WAMBAL",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78994",
+    "village": "WAMBALFAK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "78998",
+    "village": "WAMBO",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79003",
+    "village": "WAMHOR",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79023",
+    "village": "WANDIKBONGKION",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79042",
+    "village": "WANGGIBO",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79049",
+    "village": "WANGKUN",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79101",
+    "village": "WAROHAM",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79166",
+    "village": "WENEMIKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79209",
+    "village": "WILAK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79212",
+    "village": "WILEROMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79217",
+    "village": "WILTLANGGO",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79308",
+    "village": "WOROL",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79361",
+    "village": "WURUPIKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79365",
+    "village": "WUTLARIN",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79379",
+    "village": "YABUSUP",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79396",
+    "village": "YAHATMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79433",
+    "village": "YAMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79436",
+    "village": "YAMBAIKMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79457",
+    "village": "YANAMIK",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79468",
+    "village": "YANGKIKALMA",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79498",
+    "village": "YAWAN",
+    "postal_code": "99587"
+  },
+  {
+    "village_code": "79660",
+    "village": "YUTANGGO",
+    "postal_code": "99587"
+  }
+]

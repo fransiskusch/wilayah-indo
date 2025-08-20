@@ -1,0 +1,52 @@
+[
+  {
+    "village_code": "61",
+    "village": "ALUE BERAWE",
+    "postal_code": "24410"
+  },
+  {
+    "village_code": "984",
+    "village": "BLANG SINIBONG / SEUNIBONG",
+    "postal_code": "24412"
+  },
+  {
+    "village_code": "1712",
+    "village": "GAMPONG BLANG",
+    "postal_code": "24416"
+  },
+  {
+    "village_code": "1730",
+    "village": "GAMPONG DAULAT",
+    "postal_code": "24416"
+  },
+  {
+    "village_code": "1740",
+    "village": "GAMPONG JAWA",
+    "postal_code": "24416"
+  },
+  {
+    "village_code": "1763",
+    "village": "GAMPONG MUTIA",
+    "postal_code": "24416"
+  },
+  {
+    "village_code": "1791",
+    "village": "GAMPONG TEUNGOH",
+    "postal_code": "24416"
+  },
+  {
+    "village_code": "4584",
+    "village": "PAYA BUJOK BLANG PASE",
+    "postal_code": "24414"
+  },
+  {
+    "village_code": "4764",
+    "village": "PEUKAN LANGSA",
+    "postal_code": "24412"
+  },
+  {
+    "village_code": "6143",
+    "village": "TUALANG TEUNGOH",
+    "postal_code": "24414"
+  }
+]

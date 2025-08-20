@@ -1,0 +1,37 @@
+[
+  {
+    "village_code": "24981",
+    "village": "BUKIT DURI",
+    "postal_code": "12840"
+  },
+  {
+    "village_code": "25077",
+    "village": "KEBON BARU",
+    "postal_code": "12830"
+  },
+  {
+    "village_code": "25122",
+    "village": "MANGGARAI",
+    "postal_code": "12850"
+  },
+  {
+    "village_code": "25121",
+    "village": "MANGGARAI SELATAN",
+    "postal_code": "12860"
+  },
+  {
+    "village_code": "25127",
+    "village": "MENTENG DALAM",
+    "postal_code": "12870"
+  },
+  {
+    "village_code": "25223",
+    "village": "TEBET BARAT",
+    "postal_code": "12810"
+  },
+  {
+    "village_code": "25224",
+    "village": "TEBET TIMUR",
+    "postal_code": "12820"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "village_code": "25013",
+    "village": "CIPULIR",
+    "postal_code": "12230"
+  },
+  {
+    "village_code": "25031",
+    "village": "GROGOL SELATAN",
+    "postal_code": "12220"
+  },
+  {
+    "village_code": "25032",
+    "village": "GROGOL UTARA",
+    "postal_code": "12210"
+  },
+  {
+    "village_code": "25075",
+    "village": "KEBAYORAN LAMA SELATAN",
+    "postal_code": "12240"
+  },
+  {
+    "village_code": "25076",
+    "village": "KEBAYORAN LAMA UTARA",
+    "postal_code": "12240"
+  },
+  {
+    "village_code": "25170",
+    "village": "PONDOK PINANG",
+    "postal_code": "12310"
+  }
+]

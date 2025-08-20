@@ -1,0 +1,37 @@
+[
+  {
+    "village_code": "43200",
+    "village": "KEBONAGUNG",
+    "postal_code": "67116"
+  },
+  {
+    "village_code": "45800",
+    "village": "POHJENTREK",
+    "postal_code": "67171"
+  },
+  {
+    "village_code": "46021",
+    "village": "PURUTREJO",
+    "postal_code": "67117"
+  },
+  {
+    "village_code": "37375",
+    "village": "PURWOREJO",
+    "postal_code": "67115"
+  },
+  {
+    "village_code": "46498",
+    "village": "SEKARGADUNG",
+    "postal_code": "67127"
+  },
+  {
+    "village_code": "48024",
+    "village": "TEMBOKREJO",
+    "postal_code": "67118"
+  },
+  {
+    "village_code": "48521",
+    "village": "WIROGUNAN",
+    "postal_code": "67118"
+  }
+]

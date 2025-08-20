@@ -1,0 +1,347 @@
+[
+  {
+    "village_code": "123",
+    "village": "ALUE GLUMPANG BA",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "206",
+    "village": "ALUE PEUNO",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "256",
+    "village": "ALUE UDEUNG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "362",
+    "village": "ASAN BIDEUN",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "618",
+    "village": "BAYU",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "746",
+    "village": "BLANG ASAN",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "796",
+    "village": "BLANG CUT",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "810",
+    "village": "BLANG DALAM",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "821",
+    "village": "BLANG GEULANGGANG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "921",
+    "village": "BLANG PANJOE",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "953",
+    "village": "BLANG RAMBONG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1258",
+    "village": "COT BADA BARAT",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1259",
+    "village": "COT BADA BAROH",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1260",
+    "village": "COT BADA TUNONG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1275",
+    "village": "COT BUKET",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1298",
+    "village": "COT GIREK",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1305",
+    "village": "COT IJUE (IEJU)",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1318",
+    "village": "COT KEUMUDEE",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1321",
+    "village": "COT KEURANJI",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1390",
+    "village": "COT NGA",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1394",
+    "village": "COT PANJOE",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1408",
+    "village": "COT PUUK",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1409",
+    "village": "COT RABO BAROH",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1410",
+    "village": "COT RABO TUNONG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1703",
+    "village": "GAMPONG BAROH",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1777",
+    "village": "GAMPONG PUTOH",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1779",
+    "village": "GAMPONG RAYA DAGANG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "1780",
+    "village": "GAMPONG RAYA TAMBO",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "2299",
+    "village": "KAPA",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "2319",
+    "village": "KARIENG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "2442",
+    "village": "KEUDE MATANG GLUMPANG II",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "2462",
+    "village": "KEUDE TANJONG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "2578",
+    "village": "KRUENG BARO BABAH KRUENG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "2581",
+    "village": "KRUENG BARO MESJID",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "2595",
+    "village": "KRUENG DHEUE",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "3578",
+    "village": "MATA MAMPLAM",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "3598",
+    "village": "MATANG COT PASEH",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "3603",
+    "village": "MATANG GLUMPANG II MEUNASAH DAYAH",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "3604",
+    "village": "MATANG GLUMPANG II MEUNASAH TIMUR",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "3634",
+    "village": "MATANG MESJID",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "3667",
+    "village": "MATANG SAGOE",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "3984",
+    "village": "MEUNASAH MEUCAP",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "3992",
+    "village": "MEUNASAH NIBONG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4195",
+    "village": "NEUHEUEN",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4215",
+    "village": "NICAH",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4304",
+    "village": "PALOH",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4369",
+    "village": "PANTE ARA",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4384",
+    "village": "PANTE CUT",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4385",
+    "village": "PANTE GAJAH",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4401",
+    "village": "PANTE LHONG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4409",
+    "village": "PANTE PISANG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4410",
+    "village": "PANTE PIYEU",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4440",
+    "village": "PANTON GEULIMA",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4555",
+    "village": "PAYA ABOE",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4592",
+    "village": "PAYA CUT",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4630",
+    "village": "PAYA LIPAH",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4637",
+    "village": "PAYA MEUNENG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4653",
+    "village": "PAYA REUHAT",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4948",
+    "village": "PULO NALEUNG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4960",
+    "village": "PULO PISANG",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "4997",
+    "village": "PULO UE BAROE",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "5248",
+    "village": "SAGOE",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "5430",
+    "village": "SEUNEUBOK ACEH",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "5502",
+    "village": "SEUNEUBOK RAWA",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "5866",
+    "village": "TANJONG MESJID",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "5873",
+    "village": "TANJONG NIE",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "5875",
+    "village": "TANJONG PAYA",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "5934",
+    "village": "TANOH MIRAH",
+    "postal_code": "24261"
+  },
+  {
+    "village_code": "6406",
+    "village": "UTEUN BUNTA",
+    "postal_code": "24261"
+  }
+]

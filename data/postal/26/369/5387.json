@@ -1,0 +1,27 @@
+[
+  {
+    "village_code": "64231",
+    "village": "BESUSU BARAT",
+    "postal_code": "94111"
+  },
+  {
+    "village_code": "64232",
+    "village": "BESUSU TENGAH",
+    "postal_code": "94111"
+  },
+  {
+    "village_code": "64233",
+    "village": "BESUSU TIMUR",
+    "postal_code": "94111"
+  },
+  {
+    "village_code": "64868",
+    "village": "LOLU SELATAN",
+    "postal_code": "94235"
+  },
+  {
+    "village_code": "64869",
+    "village": "LOLU UTARA",
+    "postal_code": "94235"
+  }
+]

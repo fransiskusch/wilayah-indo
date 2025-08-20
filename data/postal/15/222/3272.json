@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "40250",
+    "village": "ANDONGREJO",
+    "postal_code": "68173"
+  },
+  {
+    "village_code": "41475",
+    "village": "CURAHNONGKO",
+    "postal_code": "68173"
+  },
+  {
+    "village_code": "41479",
+    "village": "CURAHTAKIR",
+    "postal_code": "68173"
+  },
+  {
+    "village_code": "45844",
+    "village": "PONDOKREJO",
+    "postal_code": "68173"
+  },
+  {
+    "village_code": "46366",
+    "village": "SANENREJO",
+    "postal_code": "68173"
+  },
+  {
+    "village_code": "46724",
+    "village": "SIDODADI",
+    "postal_code": "68173"
+  },
+  {
+    "village_code": "48048",
+    "village": "TEMPUREJO",
+    "postal_code": "68173"
+  },
+  {
+    "village_code": "48541",
+    "village": "WONOASRI",
+    "postal_code": "68173"
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "village_code": "10",
+    "village": "ABO TEUBENG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "261",
+    "village": "ALUE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "572",
+    "village": "BAROH",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "588",
+    "village": "BATEE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "615",
+    "village": "BAYU TEUBENG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "698",
+    "village": "BIE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1012",
+    "village": "BLANGKULA",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1291",
+    "village": "COT GEULUMPANG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1293",
+    "village": "COT GEUNDUEK",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1415",
+    "village": "COT RHENG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1435",
+    "village": "COT TEUNGOH",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1487",
+    "village": "DALUENG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1551",
+    "village": "DAYAH JEULEUPE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1581",
+    "village": "DAYAH TANOH",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1582",
+    "village": "DAYAH TEUBENG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1585",
+    "village": "DAYAH TEUNGOH",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1594",
+    "village": "DAYAH TUTONG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1665",
+    "village": "GAJAH AYEE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1804",
+    "village": "GAMPONG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1681",
+    "village": "GAMPONG BARAT",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "1776",
+    "village": "GAMPONG PUKAT",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "2141",
+    "village": "JAWA TEUBENG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "2163",
+    "village": "JEUMPA",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "2248",
+    "village": "KAMPONG BARO",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "2473",
+    "village": "KEUDEE KEULIBEUT",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "2492",
+    "village": "KEUNIRE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "2519",
+    "village": "KEUTAPANG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "2524",
+    "village": "KEUTUMBU",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "2596",
+    "village": "KRUENG DHOE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "2857",
+    "village": "LABUI",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "3044",
+    "village": "LAMKUTA",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "3072",
+    "village": "LAMPEUDEU BAROH",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "3073",
+    "village": "LAMPEUDEU TUNONG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "3088",
+    "village": "LAMPOH LADA",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "3264",
+    "village": "LEU BUE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "3350",
+    "village": "LHOK KEUTAPANG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "3536",
+    "village": "MANCANG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "3791",
+    "village": "MESJID RUNTOH",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "3806",
+    "village": "MESJID UTUE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "3817",
+    "village": "MEUCAT TEUBENG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "4305",
+    "village": "PALOH",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "4684",
+    "village": "PAYA",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "4628",
+    "village": "PAYA LINTEUNG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "4762",
+    "village": "PEUKAN BARO",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "4874",
+    "village": "PULI",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "4895",
+    "village": "PULO BUBEE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "4961",
+    "village": "PULO PISANG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "5047",
+    "village": "PUUK",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "5117",
+    "village": "RAWA",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "5124",
+    "village": "RAYA SANGGEUE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "5125",
+    "village": "RAYA UTUE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "5385",
+    "village": "SEUKE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "5389",
+    "village": "SEUKEUMBROK",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "5541",
+    "village": "SEURI WEUK",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "5653",
+    "village": "SIRONG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "6008",
+    "village": "TEUBENG TANJONG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "6081",
+    "village": "TIBANG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "6085",
+    "village": "TIJUE",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "6166",
+    "village": "TUMPOK 40",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "6172",
+    "village": "TUMPOK LAWEUNG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "6246",
+    "village": "UJONG LANGGO",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "6326",
+    "village": "ULEE CEU KEULIBEUT",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "6329",
+    "village": "ULEE CEUETEUBENG",
+    "postal_code": "24151"
+  },
+  {
+    "village_code": "6373",
+    "village": "ULEE TUTUE",
+    "postal_code": "24151"
+  }
+]

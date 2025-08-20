@@ -1,0 +1,287 @@
+[
+  {
+    "village_code": "45",
+    "village": "ALUE ANOU BARAT",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "46",
+    "village": "ALUE ANOU TIMU",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "64",
+    "village": "ALUE BILI GEULUMPANG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "65",
+    "village": "ALUE BILI RAYEUK",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "85",
+    "village": "ALUE BUYA",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "93",
+    "village": "ALUE DAMA",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "119",
+    "village": "ALUE GEUDONG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "136",
+    "village": "ALUE IE TAREK",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "142",
+    "village": "ALUE JAMBOK",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "155",
+    "village": "ALUE KEUTAPANG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "214",
+    "village": "ALUE RAMBONG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "233",
+    "village": "ALUE SERDANG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "338",
+    "village": "ARONGAN LISE",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "439",
+    "village": "BABUSSALAM",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "1046",
+    "village": "BUKET DARA BARO",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "1220",
+    "village": "CEUMPEUDAK",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "1244",
+    "village": "CINTA MAKMUR",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "1253",
+    "village": "COT ARA",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "1329",
+    "village": "COT KUMBANG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "1363",
+    "village": "COT MANE",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "1368",
+    "village": "COT MANYANG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "1448",
+    "village": "COT ULAYA",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "1883",
+    "village": "GEULUMPANG BUNGKOK",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "1931",
+    "village": "GLUMPANG PAYONG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "1932",
+    "village": "GLUMPANG SAMLAKOE",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "2409",
+    "village": "KEUDE ALUE IE PUTEH",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "2445",
+    "village": "KEUDE MENYEE IV",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "2450",
+    "village": "KEUDE PANTEU BRUEH",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "2608",
+    "village": "KRUENG LINGKA BARAT",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "2609",
+    "village": "KRUENG LINGKA TIMU",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3396",
+    "village": "LHOK SEUTUY",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3471",
+    "village": "LUENG BATA",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3588",
+    "village": "MATANG BARO",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3592",
+    "village": "MATANG BERINGIN",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3599",
+    "village": "MATANG CUT",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3611",
+    "village": "MATANG KAREUNG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3614",
+    "village": "MATANG KELAYU",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3619",
+    "village": "MATANG KUMBANG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3627",
+    "village": "MATANG LAWANG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3628",
+    "village": "MATANG LINYA",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3631",
+    "village": "MATANG MANYAM",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3650",
+    "village": "MATANG PINEUNG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3656",
+    "village": "MATANG RAWA",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3657",
+    "village": "MATANG RAYA BARAT",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3658",
+    "village": "MATANG RAYA TIMU",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3663",
+    "village": "MATANG REUDEP",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3690",
+    "village": "MATANG ULIM",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3823",
+    "village": "MEUDANG ARA",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3892",
+    "village": "MEUNASAH BUJOK",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "3914",
+    "village": "MEUNASAH GEUDONG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "4094",
+    "village": "MNSH ALUE I PUTEH",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "4114",
+    "village": "MON SUKON",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "4853",
+    "village": "PUCOK ALUE",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "4976",
+    "village": "PULO SEUKE",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "5062",
+    "village": "RAMBONG DALAM",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "5852",
+    "village": "TANJONG GLUMPANG",
+    "postal_code": "24392"
+  },
+  {
+    "village_code": "6237",
+    "village": "UJONG DAMA",
+    "postal_code": "24392"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "75113",
+    "village": "ASUR",
+    "postal_code": "98153"
+  },
+  {
+    "village_code": "75453",
+    "village": "BOSNABRAIDI",
+    "postal_code": "98153"
+  },
+  {
+    "village_code": "76262",
+    "village": "INDAWI",
+    "postal_code": "98157"
+  },
+  {
+    "village_code": "76521",
+    "village": "KARMON",
+    "postal_code": "98157"
+  },
+  {
+    "village_code": "77079",
+    "village": "MADIRAI",
+    "postal_code": "98157"
+  },
+  {
+    "village_code": "78422",
+    "village": "SOOR (SOR)",
+    "postal_code": "98157"
+  },
+  {
+    "village_code": "79116",
+    "village": "WASORI",
+    "postal_code": "98157"
+  },
+  {
+    "village_code": "79505",
+    "village": "YAWOSI (FANINDI)",
+    "postal_code": "98157"
+  }
+]

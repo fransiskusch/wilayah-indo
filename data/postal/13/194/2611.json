@@ -1,0 +1,57 @@
+[
+  {
+    "village_code": "31226",
+    "village": "API-API",
+    "postal_code": "51153"
+  },
+  {
+    "village_code": "31637",
+    "village": "BEBEL",
+    "postal_code": "51153"
+  },
+  {
+    "village_code": "36753",
+    "village": "PECAKARAN",
+    "postal_code": "51153"
+  },
+  {
+    "village_code": "36943",
+    "village": "PESANGGRAHAN",
+    "postal_code": "51153"
+  },
+  {
+    "village_code": "37576",
+    "village": "ROWOYOSO",
+    "postal_code": "51153"
+  },
+  {
+    "village_code": "37890",
+    "village": "SEMUT",
+    "postal_code": "51153"
+  },
+  {
+    "village_code": "38145",
+    "village": "SIJAMBE",
+    "postal_code": "51153"
+  },
+  {
+    "village_code": "39246",
+    "village": "TRATEBANG",
+    "postal_code": "51153"
+  },
+  {
+    "village_code": "39523",
+    "village": "WERDI",
+    "postal_code": "51153"
+  },
+  {
+    "village_code": "39627",
+    "village": "WONOKERTO KULON",
+    "postal_code": "51153"
+  },
+  {
+    "village_code": "39628",
+    "village": "WONOKERTO WETAN",
+    "postal_code": "51153"
+  }
+]

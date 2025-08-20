@@ -1,0 +1,32 @@
+[
+  {
+    "village_code": "53530",
+    "village": "MARU",
+    "postal_code": "85851"
+  },
+  {
+    "village_code": "54307",
+    "village": "PURA",
+    "postal_code": "85851"
+  },
+  {
+    "village_code": "54303",
+    "village": "PURA BARAT",
+    "postal_code": "85851"
+  },
+  {
+    "village_code": "54304",
+    "village": "PURA SELATAN",
+    "postal_code": "85851"
+  },
+  {
+    "village_code": "54305",
+    "village": "PURA TIMUR",
+    "postal_code": "85851"
+  },
+  {
+    "village_code": "54306",
+    "village": "PURA UTARA",
+    "postal_code": "85851"
+  }
+]

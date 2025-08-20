@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "66340",
+    "village": "BENTENGNGE",
+    "postal_code": "91221"
+  },
+  {
+    "village_code": "66911",
+    "village": "JAYA",
+    "postal_code": "91213"
+  },
+  {
+    "village_code": "67435",
+    "village": "MACORAWALIE",
+    "postal_code": "91212"
+  },
+  {
+    "village_code": "68091",
+    "village": "PENRANG",
+    "postal_code": "91219"
+  },
+  {
+    "village_code": "68309",
+    "village": "SALO",
+    "postal_code": "91216"
+  },
+  {
+    "village_code": "68409",
+    "village": "SAWITTO",
+    "postal_code": "91211"
+  },
+  {
+    "village_code": "68475",
+    "village": "SIPARAPPE",
+    "postal_code": "91217"
+  },
+  {
+    "village_code": "68476",
+    "village": "SIPATOKKONG",
+    "postal_code": "91218"
+  }
+]

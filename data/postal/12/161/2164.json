@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "25550",
+    "village": "BINONG",
+    "postal_code": "40275"
+  },
+  {
+    "village_code": "25882",
+    "village": "CIBANGKONG",
+    "postal_code": "40273"
+  },
+  {
+    "village_code": "27184",
+    "village": "GUMURUH",
+    "postal_code": "40275"
+  },
+  {
+    "village_code": "27540",
+    "village": "KACAPIRING",
+    "postal_code": "40271"
+  },
+  {
+    "village_code": "27889",
+    "village": "KEBON GEDANG",
+    "postal_code": "40274"
+  },
+  {
+    "village_code": "27905",
+    "village": "KEBONWARU",
+    "postal_code": "40272"
+  },
+  {
+    "village_code": "28402",
+    "village": "MALEER",
+    "postal_code": "40274"
+  },
+  {
+    "village_code": "29711",
+    "village": "SAMOJA",
+    "postal_code": "40273"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "75425",
+    "village": "BOMOPAI",
+    "postal_code": "98853"
+  },
+  {
+    "village_code": "76333",
+    "village": "JAYA MUKTI",
+    "postal_code": "98856"
+  },
+  {
+    "village_code": "77769",
+    "village": "ORORODO",
+    "postal_code": "98853"
+  },
+  {
+    "village_code": "77843",
+    "village": "PARAUTO",
+    "postal_code": "98853"
+  },
+  {
+    "village_code": "79036",
+    "village": "WANGGAR PANTAI",
+    "postal_code": "98856"
+  },
+  {
+    "village_code": "79037",
+    "village": "WANGGAR SARI",
+    "postal_code": "98856"
+  },
+  {
+    "village_code": "79230",
+    "village": "WIRASKA",
+    "postal_code": "98856"
+  },
+  {
+    "village_code": "79486",
+    "village": "YARO MAKMUR",
+    "postal_code": "98856"
+  }
+]

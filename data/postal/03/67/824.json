@@ -1,0 +1,32 @@
+[
+  {
+    "village_code": "12579",
+    "village": "BUNGUS BARAT",
+    "postal_code": "25237"
+  },
+  {
+    "village_code": "12580",
+    "village": "BUNGUS SELATAN",
+    "postal_code": "25237"
+  },
+  {
+    "village_code": "12581",
+    "village": "BUNGUS TIMUR",
+    "postal_code": "25237"
+  },
+  {
+    "village_code": "13505",
+    "village": "TELUK KABUNG SELATAN",
+    "postal_code": "25237"
+  },
+  {
+    "village_code": "13506",
+    "village": "TELUK KABUNG TENGAH",
+    "postal_code": "25237"
+  },
+  {
+    "village_code": "13507",
+    "village": "TELUK KABUNG UTARA",
+    "postal_code": "25237"
+  }
+]

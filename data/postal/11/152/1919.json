@@ -1,0 +1,37 @@
+[
+  {
+    "village_code": "25002",
+    "village": "CILINCING",
+    "postal_code": "14120"
+  },
+  {
+    "village_code": "25053",
+    "village": "KALI BARU",
+    "postal_code": "14110"
+  },
+  {
+    "village_code": "25124",
+    "village": "MARUNDA",
+    "postal_code": "14150"
+  },
+  {
+    "village_code": "25193",
+    "village": "ROROTAN",
+    "postal_code": "14140"
+  },
+  {
+    "village_code": "25196",
+    "village": "SEMPER BARAT",
+    "postal_code": "14130"
+  },
+  {
+    "village_code": "25197",
+    "village": "SEMPER TIMUR",
+    "postal_code": "14130"
+  },
+  {
+    "village_code": "25208",
+    "village": "SUKAPURA",
+    "postal_code": "14140"
+  }
+]

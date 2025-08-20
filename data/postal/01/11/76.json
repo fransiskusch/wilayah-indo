@@ -1,0 +1,237 @@
+[
+  {
+    "village_code": "122",
+    "village": "ALUE GINTONG",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "228",
+    "village": "ALUE RINDANG",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "391",
+    "village": "ATEUK",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "408",
+    "village": "AYON",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "465",
+    "village": "BAK AGHU",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "470",
+    "village": "BAK SEUTUI",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "580",
+    "village": "BATEE LHEE",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "619",
+    "village": "BAYU",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "674",
+    "village": "BEUREUNUT",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "1001",
+    "village": "BLANG TINGKEUM",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "1033",
+    "village": "BUGA",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "1197",
+    "village": "CAPEUNG BAROH",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "1198",
+    "village": "CAPEUNG DAYAH",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "1518",
+    "village": "DATA GASEU / GASEUE",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "2038",
+    "village": "IBOIH / IBOH TANJONG",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "2039",
+    "village": "IBOIH / IBOH TUNONG",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "2144",
+    "village": "JAWIE",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "2164",
+    "village": "JEUMPA",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "2253",
+    "village": "KAMPONG / GAMPONG RAYA",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "2327",
+    "village": "KAYEE ADANG",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "2488",
+    "village": "KEUNALOI",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "2905",
+    "village": "LAM APENG",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "2991",
+    "village": "LAMBADA",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "3019",
+    "village": "LAMCARAK",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "3036",
+    "village": "LAMJRUEN",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "3040",
+    "village": "LAMKUK",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "3063",
+    "village": "LAMPANAH",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "3064",
+    "village": "LAMPANTE",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "3078",
+    "village": "LAMPISANG DAYAH",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "3079",
+    "village": "LAMPISANG TEUNGOH",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "3080",
+    "village": "LAMPISANG TUNONG",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "3121",
+    "village": "LAMTEUBA DROI",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "3285",
+    "village": "LEUNGAH",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "3310",
+    "village": "LHIEB",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "3551",
+    "village": "MANGEU",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "3872",
+    "village": "MEUNASAH BARO",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "4042",
+    "village": "MEUNASAH TUNONG",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "4056",
+    "village": "MEURAH",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "4489",
+    "village": "PASAR SEULIMEUM",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "4821",
+    "village": "PINTO KHOP",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "5002",
+    "village": "PULO",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "5051",
+    "village": "RABO",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "5401",
+    "village": "SEULIMEUM",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "5528",
+    "village": "SEUNEUBOK",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "6242",
+    "village": "UJONG KEUPULA",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "6248",
+    "village": "UJONG MESJID LAMPANAH",
+    "postal_code": "23951"
+  },
+  {
+    "village_code": "6249",
+    "village": "UJONG MESJID T. ABEE",
+    "postal_code": "23951"
+  }
+]

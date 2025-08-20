@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "74883",
+    "village": "AISAU",
+    "postal_code": "98252"
+  },
+  {
+    "village_code": "75246",
+    "village": "BARAWAI",
+    "postal_code": "98252"
+  },
+  {
+    "village_code": "75245",
+    "village": "BARAWAI II",
+    "postal_code": "98252"
+  },
+  {
+    "village_code": "76785",
+    "village": "KOROROMPUI",
+    "postal_code": "98252"
+  },
+  {
+    "village_code": "78220",
+    "village": "SAWENDUI",
+    "postal_code": "98252"
+  },
+  {
+    "village_code": "78221",
+    "village": "SAWENUI (SAWENOI)",
+    "postal_code": "98252"
+  },
+  {
+    "village_code": "78951",
+    "village": "WAINDU",
+    "postal_code": "98252"
+  },
+  {
+    "village_code": "79256",
+    "village": "WODA",
+    "postal_code": "98252"
+  }
+]

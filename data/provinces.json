@@ -1,0 +1,138 @@
+[
+  {
+    "code": "01",
+    "name": "ACEH"
+  },
+  {
+    "code": "17",
+    "name": "BALI"
+  },
+  {
+    "code": "16",
+    "name": "BANTEN"
+  },
+  {
+    "code": "07",
+    "name": "BENGKULU"
+  },
+  {
+    "code": "14",
+    "name": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "code": "11",
+    "name": "DAERAH KHUSUS IBUKOTA JAKARTA"
+  },
+  {
+    "code": "29",
+    "name": "GORONTALO"
+  },
+  {
+    "code": "05",
+    "name": "JAMBI"
+  },
+  {
+    "code": "12",
+    "name": "JAWA BARAT"
+  },
+  {
+    "code": "13",
+    "name": "JAWA TENGAH"
+  },
+  {
+    "code": "15",
+    "name": "JAWA TIMUR"
+  },
+  {
+    "code": "20",
+    "name": "KALIMANTAN BARAT"
+  },
+  {
+    "code": "22",
+    "name": "KALIMANTAN SELATAN"
+  },
+  {
+    "code": "21",
+    "name": "KALIMANTAN TENGAH"
+  },
+  {
+    "code": "23",
+    "name": "KALIMANTAN TIMUR"
+  },
+  {
+    "code": "24",
+    "name": "KALIMANTAN UTARA"
+  },
+  {
+    "code": "09",
+    "name": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "code": "10",
+    "name": "KEPULAUAN RIAU"
+  },
+  {
+    "code": "08",
+    "name": "LAMPUNG"
+  },
+  {
+    "code": "31",
+    "name": "MALUKU"
+  },
+  {
+    "code": "32",
+    "name": "MALUKU UTARA"
+  },
+  {
+    "code": "18",
+    "name": "NUSA TENGGARA BARAT"
+  },
+  {
+    "code": "19",
+    "name": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "code": "33",
+    "name": "PAPUA"
+  },
+  {
+    "code": "34",
+    "name": "PAPUA BARAT"
+  },
+  {
+    "code": "04",
+    "name": "RIAU"
+  },
+  {
+    "code": "30",
+    "name": "SULAWESI BARAT"
+  },
+  {
+    "code": "27",
+    "name": "SULAWESI SELATAN"
+  },
+  {
+    "code": "26",
+    "name": "SULAWESI TENGAH"
+  },
+  {
+    "code": "28",
+    "name": "SULAWESI TENGGARA"
+  },
+  {
+    "code": "25",
+    "name": "SULAWESI UTARA"
+  },
+  {
+    "code": "03",
+    "name": "SUMATERA BARAT"
+  },
+  {
+    "code": "06",
+    "name": "SUMATERA SELATAN"
+  },
+  {
+    "code": "02",
+    "name": "SUMATERA UTARA"
+  }
+]

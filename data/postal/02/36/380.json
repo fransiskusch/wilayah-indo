@@ -1,0 +1,77 @@
+[
+  {
+    "village_code": "6611",
+    "village": "AIR MERAH",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "10125",
+    "village": "PERKEBUNAN BATANG SEPONGGOL",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "10161",
+    "village": "PERKEBUNAN PERLABIAN",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "10188",
+    "village": "PERKEBUNAN TELUK PANJI",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "10189",
+    "village": "PERKEBUNAN TOLAN (PEKAN TOLAN)",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "10190",
+    "village": "PERKEBUNAN TOLAN I / II",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "10195",
+    "village": "PERLABIAN (KAMPUNG PERLABIAN)",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "11975",
+    "village": "TANJUNG MEDAN",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "11990",
+    "village": "TANJUNG MULIA",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "12017",
+    "village": "TANJUNG SELAMAT",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "12129",
+    "village": "TELUK PANJI (KAMPUNG TELUK PANJI)",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "12130",
+    "village": "TELUK PANJI I",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "12131",
+    "village": "TELUK PANJI II",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "12132",
+    "village": "TELUK PANJI III",
+    "postal_code": "21463"
+  },
+  {
+    "village_code": "12133",
+    "village": "TELUK PANJI IV",
+    "postal_code": "21463"
+  }
+]

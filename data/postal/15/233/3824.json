@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "42181",
+    "village": "GUNUNG GEDE",
+    "postal_code": "66173"
+  },
+  {
+    "village_code": "42717",
+    "village": "KALIGRENJENG",
+    "postal_code": "66173"
+  },
+  {
+    "village_code": "44765",
+    "village": "NGADIPURO",
+    "postal_code": "66173"
+  },
+  {
+    "village_code": "44872",
+    "village": "NGENI",
+    "postal_code": "66173"
+  },
+  {
+    "village_code": "45454",
+    "village": "PASIRAMAN",
+    "postal_code": "66173"
+  },
+  {
+    "village_code": "47373",
+    "village": "SUMBERBOTO",
+    "postal_code": "66173"
+  },
+  {
+    "village_code": "47743",
+    "village": "TAMBAKREJO",
+    "postal_code": "66173"
+  },
+  {
+    "village_code": "48647",
+    "village": "WONOTIRTO",
+    "postal_code": "66173"
+  }
+]

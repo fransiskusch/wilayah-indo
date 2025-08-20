@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "25565",
+    "village": "BOGOR",
+    "postal_code": "45257"
+  },
+  {
+    "village_code": "27670",
+    "village": "KARANG LAYUNG",
+    "postal_code": "45257"
+  },
+  {
+    "village_code": "30623",
+    "village": "SUKRA",
+    "postal_code": "45257"
+  },
+  {
+    "village_code": "30624",
+    "village": "SUKRAWETAN",
+    "postal_code": "45257"
+  },
+  {
+    "village_code": "30651",
+    "village": "SUMURADEM",
+    "postal_code": "45257"
+  },
+  {
+    "village_code": "30650",
+    "village": "SUMURADEM TIMUR",
+    "postal_code": "45257"
+  },
+  {
+    "village_code": "30900",
+    "village": "TEGALTAMAN",
+    "postal_code": "45257"
+  },
+  {
+    "village_code": "31007",
+    "village": "UJUNGGEBANG",
+    "postal_code": "45257"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "31390",
+    "village": "BANDUNG",
+    "postal_code": "52137"
+  },
+  {
+    "village_code": "32465",
+    "village": "DEBONG KIDUL",
+    "postal_code": "52138"
+  },
+  {
+    "village_code": "32466",
+    "village": "DEBONG KULON",
+    "postal_code": "52133"
+  },
+  {
+    "village_code": "32468",
+    "village": "DEBONG TENGAH",
+    "postal_code": "52132"
+  },
+  {
+    "village_code": "33902",
+    "village": "KALINYAMAT WETAN",
+    "postal_code": "52136"
+  },
+  {
+    "village_code": "35051",
+    "village": "KETUREN",
+    "postal_code": "52134"
+  },
+  {
+    "village_code": "37443",
+    "village": "RANDUGUNTING",
+    "postal_code": "52131"
+  },
+  {
+    "village_code": "39360",
+    "village": "TUNON",
+    "postal_code": "52135"
+  }
+]

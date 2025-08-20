@@ -1,0 +1,32 @@
+[
+  {
+    "village_code": "25100",
+    "village": "KOJA (UTARA  SELATAN)",
+    "postal_code": "14210"
+  },
+  {
+    "village_code": "25111",
+    "village": "LAGOA",
+    "postal_code": "14270"
+  },
+  {
+    "village_code": "25183",
+    "village": "RAWA BADAK SELATAN",
+    "postal_code": "14230"
+  },
+  {
+    "village_code": "25184",
+    "village": "RAWA BADAK UTARA",
+    "postal_code": "14230"
+  },
+  {
+    "village_code": "25228",
+    "village": "TUGU SELATAN",
+    "postal_code": "14260"
+  },
+  {
+    "village_code": "25229",
+    "village": "TUGU UTARA",
+    "postal_code": "14260"
+  }
+]

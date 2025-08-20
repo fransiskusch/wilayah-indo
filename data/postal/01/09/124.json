@@ -1,0 +1,52 @@
+[
+  {
+    "village_code": "272",
+    "village": "ALUR DUA MAS",
+    "postal_code": "23773"
+  },
+  {
+    "village_code": "686",
+    "village": "BEUTONG",
+    "postal_code": "23773"
+  },
+  {
+    "village_code": "1105",
+    "village": "BUKIT GADING (BUKET GEDENG)",
+    "postal_code": "23773"
+  },
+  {
+    "village_code": "2104",
+    "village": "JAMBO KEUPOK / KEUPHOK",
+    "postal_code": "23773"
+  },
+  {
+    "village_code": "5071",
+    "village": "RAMBONG",
+    "postal_code": "23773"
+  },
+  {
+    "village_code": "5346",
+    "village": "SENEUBOK ALUR BULAH / BULOH",
+    "postal_code": "23773"
+  },
+  {
+    "village_code": "5423",
+    "village": "SEUNEBOK KERANJI",
+    "postal_code": "23773"
+  },
+  {
+    "village_code": "6277",
+    "village": "UJUNG GUNONG RAYEK",
+    "postal_code": "23773"
+  },
+  {
+    "village_code": "6278",
+    "village": "UJUNG GUNUNG CUT",
+    "postal_code": "23773"
+  },
+  {
+    "village_code": "6304",
+    "village": "UJUNG TANOH",
+    "postal_code": "23773"
+  }
+]

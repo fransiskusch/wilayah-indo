@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "49020",
+    "village": "CIPADU",
+    "postal_code": "15155"
+  },
+  {
+    "village_code": "49019",
+    "village": "CIPADU JAYA",
+    "postal_code": "15155"
+  },
+  {
+    "village_code": "49129",
+    "village": "GAGA",
+    "postal_code": "15154"
+  },
+  {
+    "village_code": "49425",
+    "village": "KREO",
+    "postal_code": "15156"
+  },
+  {
+    "village_code": "49424",
+    "village": "KREO SELATAN",
+    "postal_code": "15156"
+  },
+  {
+    "village_code": "49460",
+    "village": "LARANGAN INDAH",
+    "postal_code": "15154"
+  },
+  {
+    "village_code": "49461",
+    "village": "LARANGAN SELATAN",
+    "postal_code": "15154"
+  },
+  {
+    "village_code": "49462",
+    "village": "LARANGAN UTARA",
+    "postal_code": "15154"
+  }
+]

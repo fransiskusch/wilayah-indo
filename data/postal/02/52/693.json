@@ -1,0 +1,32 @@
+[
+  {
+    "village_code": "8445",
+    "village": "KOTA BANGUN",
+    "postal_code": "20243"
+  },
+  {
+    "village_code": "8925",
+    "village": "MABAR",
+    "postal_code": "20242"
+  },
+  {
+    "village_code": "8923",
+    "village": "MABAR HILIR",
+    "postal_code": "20242"
+  },
+  {
+    "village_code": "11991",
+    "village": "TANJUNG MULIA",
+    "postal_code": "20241"
+  },
+  {
+    "village_code": "11988",
+    "village": "TANJUNG MULIA HILIR",
+    "postal_code": "20241"
+  },
+  {
+    "village_code": "12205",
+    "village": "TITI PAPAN",
+    "postal_code": "20244"
+  }
+]

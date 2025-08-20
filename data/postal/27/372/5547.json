@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "66105",
+    "village": "BAJOE",
+    "postal_code": "92716"
+  },
+  {
+    "village_code": "66745",
+    "village": "CELLU",
+    "postal_code": "92715"
+  },
+  {
+    "village_code": "67400",
+    "village": "LONRAE",
+    "postal_code": "92716"
+  },
+  {
+    "village_code": "67894",
+    "village": "PALLETTE",
+    "postal_code": "92719"
+  },
+  {
+    "village_code": "67951",
+    "village": "PANYULA",
+    "postal_code": "92717"
+  },
+  {
+    "village_code": "68758",
+    "village": "TIBOJONG",
+    "postal_code": "92716"
+  },
+  {
+    "village_code": "68867",
+    "village": "TORO",
+    "postal_code": "92715"
+  },
+  {
+    "village_code": "68961",
+    "village": "WAETUO",
+    "postal_code": "92718"
+  }
+]

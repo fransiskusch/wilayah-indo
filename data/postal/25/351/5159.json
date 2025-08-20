@@ -1,0 +1,42 @@
+[
+  {
+    "village_code": "62320",
+    "village": "AWIT",
+    "postal_code": "95881"
+  },
+  {
+    "village_code": "62319",
+    "village": "AWIT SELATAN",
+    "postal_code": "95881"
+  },
+  {
+    "village_code": "62990",
+    "village": "LOBBO",
+    "postal_code": "95881"
+  },
+  {
+    "village_code": "62989",
+    "village": "LOBBO I",
+    "postal_code": "95881"
+  },
+  {
+    "village_code": "63057",
+    "village": "MAKATARA",
+    "postal_code": "95881"
+  },
+  {
+    "village_code": "63056",
+    "village": "MAKATARA TIMUR",
+    "postal_code": "95881"
+  },
+  {
+    "village_code": "63491",
+    "village": "RAE",
+    "postal_code": "95881"
+  },
+  {
+    "village_code": "63490",
+    "village": "RAE SELATAN",
+    "postal_code": "95881"
+  }
+]

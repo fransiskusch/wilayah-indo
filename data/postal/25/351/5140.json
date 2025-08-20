@@ -1,0 +1,57 @@
+[
+  {
+    "village_code": "62288",
+    "village": "ALO",
+    "postal_code": "95882"
+  },
+  {
+    "village_code": "62287",
+    "village": "ALO UTARA",
+    "postal_code": "95882"
+  },
+  {
+    "village_code": "62349",
+    "village": "BANTANE",
+    "postal_code": "95882"
+  },
+  {
+    "village_code": "62348",
+    "village": "BANTANE UTARA",
+    "postal_code": "95882"
+  },
+  {
+    "village_code": "63283",
+    "village": "NUNU",
+    "postal_code": "95882"
+  },
+  {
+    "village_code": "63282",
+    "village": "NUNU UTARA",
+    "postal_code": "95882"
+  },
+  {
+    "village_code": "63358",
+    "village": "PARANGEN",
+    "postal_code": "95882"
+  },
+  {
+    "village_code": "63493",
+    "village": "RAINIS",
+    "postal_code": "95882"
+  },
+  {
+    "village_code": "63492",
+    "village": "RAINIS BARU PENGA",
+    "postal_code": "95882"
+  },
+  {
+    "village_code": "63686",
+    "village": "TABANG",
+    "postal_code": "95882"
+  },
+  {
+    "village_code": "63684",
+    "village": "TABANG BARAT",
+    "postal_code": "95882"
+  }
+]
