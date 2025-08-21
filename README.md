@@ -1,17 +1,17 @@
 # 🇮🇩 Indonesia Administrative Regions Dataset
 
-Open dataset of Indonesian administrative areas (province, regency/city, district, village + postal code).  
+Open dataset of Indonesian administrative areas (provinces, regencies/cities, districts, villages, and postal codes).  
 Provided as **static JSON via CDN** or through a lightweight **API proxy** (Hono + Cloudflare Workers).
 
 ---
 
 ## 📦 Features
 
-- ⚡ **Fast & spike-proof** — served by jsDelivr CDN and Cloudflare Workers  
-- 🧩 **Granular files** — small JSON per region  
-- 🔒 **CORS-ready** — safe for browser fetch/axios/fetch API  
-- 🌐 **Multilingual docs** — English & Bahasa Indonesia  
-- 📖 Full documentation available at [wilayah.fransiskus.site](https://wilayah.fransiskus.site)
+- ⚡ **Fast & spike-proof** — Served by jsDelivr CDN and Cloudflare Workers  
+- 🧩 **Granular files** — Small JSON files per region  
+- 🔒 **CORS-ready** — Safe for browser fetch/axios/fetch API  
+- 🌐 **Multilingual docs** — Available in English and Bahasa Indonesia  
+- 📖 Full documentation at [wilayah.fransiskus.site](https://wilayah.fransiskus.site)
 
 ---
 
@@ -19,25 +19,44 @@ Provided as **static JSON via CDN** or through a lightweight **API proxy** (Hono
 
 ### 1. CDN (jsDelivr)
 
-Data is served directly from the GitHub repo via jsDelivr.  
-Use `.json` files for each level.
+Data is served directly from the GitHub repo via jsDelivr. Use `.json` files for each administrative level.
 
 **Base URL:**
 
+```plaintext
 https://cdn.jsdelivr.net/gh/fransiskusch/wilayah-indo/data
 
-**Endpoints:**
+Endpoints:
 
-| Level            | Path Example                                              | cURL Example                                                                 |
-|------------------|-----------------------------------------------------------|------------------------------------------------------------------------------|
-| Provinces        | `/provinces.json`                                         | `curl https://cdn.jsdelivr.net/gh/fransiskusch/wilayah-indo/data/provinces.json` |
-| Regencies/Cities | `/regencies/:prov.json` → `/regencies/31.json`            | `curl https://cdn.jsdelivr.net/gh/fransiskusch/wilayah-indo/data/regencies/31.json` |
-| Districts        | `/districts/:prov.:reg.json` → `/districts/31.74.json`    | `curl https://cdn.jsdelivr.net/gh/fransiskusch/wilayah-indo/data/districts/31.74.json` |
-| Postal/Villages  | `/postal/:prov/:reg/:dist.json` → `/postal/31/74/06.json` | `curl https://cdn.jsdelivr.net/gh/fransiskusch/wilayah-indo/data/postal/31/74/06.json` |
 
-**Example Fetch (JS):**
 
-```js
+Level
+Path Example
+cURL Example
+
+
+
+Provinces
+/provinces.json
+curl https://cdn.jsdelivr.net/gh/fransiskusch/wilayah-indo/data/provinces.json
+
+
+Regencies/Cities
+/regencies/:prov.json → /regencies/31.json
+curl https://cdn.jsdelivr.net/gh/fransiskusch/wilayah-indo/data/regencies/31.json
+
+
+Districts
+/districts/:prov.:reg.json → /districts/31.74.json
+curl https://cdn.jsdelivr.net/gh/fransiskusch/wilayah-indo/data/districts/31.74.json
+
+
+Postal/Villages
+/postal/:prov/:reg/:dist.json → /postal/31/74/06.json
+curl https://cdn.jsdelivr.net/gh/fransiskusch/wilayah-indo/data/postal/31/74/06.json
+
+
+Example Fetch (JS):
 const BASE = "https://cdn.jsdelivr.net/gh/fransiskusch/wilayah-indo/data";
 
 const provinces = await fetch(`${BASE}/provinces.json`).then(r => r.json());
@@ -45,7 +64,7 @@ console.log(provinces);
 
 
 2. API (Hono + Cloudflare Workers)
-If you prefer an API-like structure, use the Cloudflare Worker proxy.It provides the same dataset but without .json extensions.
+Use the Cloudflare Worker proxy for an API-like structure without .json extensions.
 Base URL:
 https://wilayah-api.franskristiono.workers.dev/api
 
@@ -101,17 +120,16 @@ console.log(provinces);
 /postal/31/74/06.json
 [
   { "village": "Kuningan Timur", "postal_code": "12950" },
-  { "village": "Menteng Atas",  "postal_code": "12960" }
+  { "village": "Menteng Atas", "postal_code": "12960" }
 ]
 
 
 📖 Full Documentation
-For full usage guides, quickstart, and examples, visit:👉 wilayah.fransiskus.site
-You can also import our Postman Collection to test all endpoints quickly.
+For detailed usage guides, quickstart, and examples, visit:👉 wilayah.fransiskus.site
+Test all endpoints quickly with our Postman Collection.
 
 🤝 Contributing
 Want to add new data or improve the API? Check out CONTRIBUTING.md for guidelines.⭐ If you find this dataset useful, consider starring the repo to support the project!
 
 📝 License
-CC BY 4.0 — free to use with attribution.
-Creator: Fransiskus Christiono```
+CC BY 4.0 — Free to use with attribution.Creator: Fransiskus Christiono```
